@@ -1,0 +1,16 @@
+
+Hcom.infosys.order.dto.OrderDetailsDTO#getOrderProducts()Ljava/util/List;e
+[C:/Users/sunny/Desktop/FA4/OrderMS/src/main/java/com/infosys/order/dto/OrderDetailsDTO.javaR! R(1"1*²
+1e
+[C:/Users/sunny/Desktop/FA4/OrderMS/src/main/java/com/infosys/order/dto/OrderDetailsDTO.javaS	 S(Ä
+Á
+e
+[C:/Users/sunny/Desktop/FA4/OrderMS/src/main/java/com/infosys/order/dto/OrderDetailsDTO.javaS	 S(
+%0java.util.List"__id*<*:'
+%com.infosys.order.dto.OrderDetailsDTO"
+orderProducts"
+e
+[C:/Users/sunny/Desktop/FA4/OrderMS/src/main/java/com/infosys/order/dto/OrderDetailsDTO.javaS S(
+
+%0java.util.ListB)'
+%com.infosys.order.dto.OrderDetailsDTO

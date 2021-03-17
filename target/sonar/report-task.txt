@@ -1,0 +1,7 @@
+organization=sunnybhagwat
+projectKey=com.infosys.order:OrderMS
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.18249
+dashboardUrl=https://sonarcloud.io/dashboard?id=com.infosys.order%3AOrderMS
+ceTaskId=AXg6kELm6OMeYByot1Yq
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXg6kELm6OMeYByot1Yq

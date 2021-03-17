@@ -1,0 +1,11 @@
+com\infosys\order\entity\OrderDetails.class
+com\infosys\order\repository\OrderDetailsRepository.class
+com\infosys\order\entity\ProductsOrdered.class
+com\infosys\order\entity\CompositeKey.class
+com\infosys\order\controller\OrderDetailsController.class
+com\infosys\order\service\OrderDetailsService.class
+com\infosys\order\dto\ProductsOrderedDTO.class
+com\infosys\order\OrderDetailsApplication.class
+com\infosys\order\dto\CartDTO.class
+com\infosys\order\repository\ProductOrderedRepository.class
+com\infosys\order\dto\OrderDetailsDTO.class
